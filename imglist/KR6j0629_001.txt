@@ -1,0 +1,5 @@
+001-0913c24	TKD 13-1255b	buddhist/K-koreana/13-tif/1200-1299/13_1255_B.TIF
+001-0914a19	TKD 13-1255c	buddhist/K-koreana/13-tif/1200-1299/13_1255_C.TIF
+001-0914b14	TKD 13-1256a	buddhist/K-koreana/13-tif/1200-1299/13_1256_A.TIF
+001-0914a00	T 001-0914a	buddhist/T-taisho/T21/09/T21-0914.png
+001-0914b00	T 001-0914b	buddhist/T-taisho/T21/09/T21-0914.png
