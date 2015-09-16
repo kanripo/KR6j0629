@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 智炬陀羅尼經
+#+DATE: 2015-08-30 20:36:41.139382
+#+PROPERTY: JUAN 0
